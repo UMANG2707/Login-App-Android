@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242271866641",
+    "firebase_url": "https://agenthardik-72935.firebaseio.com",
+    "project_id": "agenthardik-72935",
+    "storage_bucket": "agenthardik-72935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242271866641:android:b0f06733f79a082118c6b0",
+        "android_client_info": {
+          "package_name": "com.example.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242271866641-94erei2vvjsjjmk3h785de67fbj9hls3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pro",
+            "certificate_hash": "881520e4438dc614a072a204dd2a8b523d96aae3"
+          }
+        },
+        {
+          "client_id": "242271866641-gniokq77v2a7fjag5irk8aipsv0hro65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAuyBlaMJygxCHM5h_rZbd6jU-bUq9Eaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242271866641-gniokq77v2a7fjag5irk8aipsv0hro65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
